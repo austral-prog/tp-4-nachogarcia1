@@ -30,4 +30,4 @@ def line():
     print(f"La distancia entre ellos es: {math.dist(p, q)}")
 
 
-line()
+
